@@ -10,7 +10,9 @@
   TechStack-
   <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
   
-  Connect With Me
+  Connect With Me 
+  
+  Github Stats <img src="https://github-readme-stats.vercel.app/api?username={devtrpthi}"/>
 
   Ask me about Tech, Football, Cricket and Chess
 
