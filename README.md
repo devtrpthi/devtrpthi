@@ -12,7 +12,7 @@
   
   Connect With Me 
   
-  Github Stats <img src="https://github-readme-stats.vercel.app/api?username={devtrpthi}"/>
+  Github Stats <img src="https://github-readme-stats.vercel.app/api?username=devtrpthi"/>
 
   Ask me about Tech, Football, Cricket and Chess
 
