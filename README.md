@@ -3,7 +3,7 @@
 
 
    
-  I’m currently learning frontend development
+  I’m currently learning Frontend development
   
   I’m looking to collaborate on anything that enhances my skillset and helps me in my growth.
   
