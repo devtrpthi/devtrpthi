@@ -18,7 +18,7 @@
   Github Stats 
   <img src="https://github-readme-stats.vercel.app/api?username=devtrpthi"/>
     <img src="https://activity-graph.herokuapp.com/graph?username=devtrpthi&theme=minimal"/>
-  Ask me about Tech, Football and Chess
+  Ask me about Tech, F1, Football and Chess
 
  Pronouns: He/Him
 
