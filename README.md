@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devtrpthi&show_icons=true&locale=en&theme=synthwave" alt="devtrpthi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtrpthi&" alt="devtrpthi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtrpthi&theme=synthwave" alt="devtrpthi" /></p>
