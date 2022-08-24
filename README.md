@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **JS , ReactJS , Typescript**
 
-- 📫Reach me @ **deveshkrishnatripathi@gmail.com**
+- 📫Reach me @ [email](deveshkrishnatripathi@gmail.com)
 
 - 📄 Hire me! [resume](https://drive.google.com/file/d/1B8dKkyKal99NySEFAlJwHL7hnd_uud_L/view?usp=sharing)
 
