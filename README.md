@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Nodejs , Django , Docker**
 
-- 👨‍💻 All of my projects are available at [](https://github.com/devtrpthi)
+- 👨‍💻 All of my projects are available at [portfolio](https://github.com/devtrpthi)
 
 - 💬 Ask me about **JS , ReactJS , Typescript**
 
