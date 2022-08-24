@@ -13,7 +13,7 @@
 
 - 📫Reach me @ **deveshkrishnatripathi@gmail.com**
 
-- 📄 Hire me! [https://drive.google.com/file/d/1B8dKkyKal99NySEFAlJwHL7hnd_uud_L/view?usp=sharing](https://drive.google.com/file/d/1B8dKkyKal99NySEFAlJwHL7hnd_uud_L/view?usp=sharing)
+- 📄 Hire me! [resume](https://drive.google.com/file/d/1B8dKkyKal99NySEFAlJwHL7hnd_uud_L/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
