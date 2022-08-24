@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Nodejs , Django , Docker**
 
-- 👨‍💻 All of my projects are available at [https://github.com/devtrpthi](https://github.com/devtrpthi)
+- 👨‍💻 All of my projects are available at [](https://github.com/devtrpthi)
 
 - 💬 Ask me about **JS , ReactJS , Typescript**
 
 - 📫Reach me @ [email](deveshkrishnatripathi@gmail.com)
 
-- 📄 Hire me! [resume](https://drive.google.com/file/d/1B8dKkyKal99NySEFAlJwHL7hnd_uud_L/view?usp=sharing)
+- 📄 Hire me! [resume-link](https://drive.google.com/file/d/1B8dKkyKal99NySEFAlJwHL7hnd_uud_L/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
