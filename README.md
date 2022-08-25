@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/devtrpthi" target="blank"><img src="https://img.shields.io/twitter/follow/devtrpthi?logo=twitter&style=for-the-badge" alt="devtrpthi" /></a> </p>
 
-- 🌱 I’m currently learning **Nodejs , Django , Docker**
+- 🌱 I’m currently learning **Nodejs , Django , Docker , AWS**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/devtrpthi)
 
