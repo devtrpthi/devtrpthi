@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/devtrpthi)
 
-- 💬 Ask me about **JS , ReactJS , Typescript, Networking**
+- 💬 Ask me about **JS , ReactJS , Typescript**
 
 - 📫Reach me @ [mail-id](deveshkrishnatripathi@gmail.com)
 
