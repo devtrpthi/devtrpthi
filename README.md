@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devesh Tripathi</h1>
+<h1 align="center">Hi 👋, I'm Devsh Tripathi</h1>
 <h3 align="center">19 yr. old passionate Linux user & Backend developer || RB addict || daydreamer(if u know)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtrpthi&label=Profile%20views&color=0e75b6&style=flat" alt="devtrpthi" /> </p>
