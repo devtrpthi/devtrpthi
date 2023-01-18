@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Tripathi</h1>
-<h3 align="center">20 yr. old passionate Linux user & Backend developer ||  || daydreamer(if u know)</h3>
+<h3 align="center">20 yr. old passionate Linux user & Backend developer || RB addict || daydreamer(if u know)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtrpthi&label=Profile%20views&color=0e75b6&style=flat" alt="devtrpthi" /> </p>
 
