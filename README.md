@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/devtrpthi" target="blank"><img src="https://img.shields.io/twitter/follow/devtrpthi?logo=twitter&style=for-the-badge" alt="devtrpthi" /></a> </p>
 
-- 🌱 I’m currently learning **Nestjs, FastApi , Django , Docker , AWS**
+- 🌱 I’m currently learning **Nestjs, FastApi , Django , AWS**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/devtrpthi)
 
-- 💬 Ask me about **JS , ReactJS , Typescript**
+- 💬 Ask me about **JS , ReactJS , Typescript , Docker**
 
 - 📫Reach me @ [mail-id](deveshkrishnatripathi@gmail.com)
 
