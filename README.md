@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/devtrpthi" target="blank"><img src="https://img.shields.io/twitter/follow/devtrpthi?logo=twitter&style=for-the-badge" alt="devtrpthi" /></a> </p>
 
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/devtrpthi)
 
 - 🌱 I’m currently learning **Nestjs, FastApi , Django , AWS**
 
