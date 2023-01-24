@@ -1,3 +1,7 @@
+
+![Devesh's GitHub Banner](./assets/GitHubHeader.png)](https://github.com/devtrpthi)
+
+
 <h1 align="center">Hi 👋, I'm Devesh Tripathi</h1>
 <h3 align="center">20 yr. old passionate Linux user & Backend developer || RB addict || daydreamer(if u know)</h3>
 
