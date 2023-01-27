@@ -37,6 +37,7 @@
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devtrpthi&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true" alt="devtrpthi" /></br></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devtrpthi&show_icons=true&locale=en&theme=darcula&hide_border=true" alt="devtrpthi" /></p>
 </div>
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtrpthi&theme=darcula&hide_border=true" alt="devtrpthi" /></p>
-
+</div>
 <h1 align="center">Gracias por su visita</h1>
