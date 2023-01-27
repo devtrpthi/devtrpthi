@@ -38,4 +38,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devtrpthi&theme=darcula&hide_border=true" alt="devtrpthi" /></p>
 
-<h1>Gracias por su visita</h1>
+<h1 align="center">Gracias por su visita</h1>
