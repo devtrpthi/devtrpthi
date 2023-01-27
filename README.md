@@ -34,8 +34,8 @@
 
 ## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Random stats
 <div align="center">
-<p><img  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devtrpthi&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true" alt="devtrpthi" /></br></p>
-<p>&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=devtrpthi&show_icons=true&locale=en&theme=darcula&hide_border=true" alt="devtrpthi" /></p>
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devtrpthi&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true" alt="devtrpthi" /></br></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api?username=devtrpthi&show_icons=true&locale=en&theme=darcula&hide_border=true" alt="devtrpthi" /></p>
 </div>
 <div align="center">
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=devtrpthi&theme=darcula&hide_border=true" alt="devtrpthi" /></p>
