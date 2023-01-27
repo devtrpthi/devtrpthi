@@ -7,6 +7,8 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40devtrpthi)](https://twitter.com/devtrpthi)
 
+## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
+
 - 🌱 I’m currently learning **Nestjs, FastApi , Django , AWS**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://github.com/devtrpthi)
