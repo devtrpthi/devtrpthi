@@ -38,12 +38,15 @@
 </div>
 </details>
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's connect
+<details closed>
+<summary>
+ <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's connect </summary>
 <!---<h3 align="left">Connect with me:</h3>--->
 <p align="left">
 <a href="https://twitter.com/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtrpthi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devtrpthi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devtrpthi" height="30" width="40" /></a>
 </p>
+ </details>
 
 <h1 align="center">Gracias por su visita</h1>
