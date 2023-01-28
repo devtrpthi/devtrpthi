@@ -19,15 +19,6 @@
 
 - 📄 Hire me! [resume-link](https://drive.google.com/file/d/1alUTvSWuBf_-_9EWSB-tllLjxKXgFOCc/view?usp=sharing)
 
-## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's connect
-
-<!---<h3 align="left">Connect with me:</h3>--->
-<p align="left">
-<a href="https://twitter.com/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtrpthi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devtrpthi" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devtrpthi" height="30" width="40" /></a>
-</p>
-
 <details closed>
 <summary> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Tech Stack   </summary>
 <!---<h3 align="left">Languages and Tools:</h3>--->
@@ -46,4 +37,13 @@
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=devtrpthi&theme=darcula&hide_border=true" alt="devtrpthi" /></p>
 </div>
 </details>
+
+## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Let's connect
+<!---<h3 align="left">Connect with me:</h3>--->
+<p align="left">
+<a href="https://twitter.com/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devtrpthi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devtrpthi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/devtrpthi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="devtrpthi" height="30" width="40" /></a>
+</p>
+
 <h1 align="center">Gracias por su visita</h1>
