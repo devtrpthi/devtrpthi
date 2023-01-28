@@ -34,7 +34,7 @@
 
 <details closed>
 <summary>
-## <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Random stats </summary>
+ <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px"> Random stats </summary>
 <div align="center">
 <p><img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=devtrpthi&show_icons=true&locale=en&layout=compact&theme=darcula&hide_border=true" alt="devtrpthi" /></br></p>
 <p>&nbsp;
