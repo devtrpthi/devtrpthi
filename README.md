@@ -1,4 +1,4 @@
-```<h2 align="center">Hi 👋, I'm Devesh</h2>```
+><h2 align="center">Hi 👋, I'm Devesh</h2>
 <h4 align="center">20 yr. old passionate Linux user & Backend developer || RB addict || daydreamer(if u know)</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devtrpthi&label=Visitors&color=0e75b6&style=flat" alt="devtrpthi" /> </p>
