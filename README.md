@@ -17,7 +17,7 @@
 
 - 📫Reach me @ [mail-id](deveshkrishnatripathi@gmail.com)
 
-- 📄 Hire me! [resume-link](https://drive.google.com/file/d/1alUTvSWuBf_-_9EWSB-tllLjxKXgFOCc/view?usp=sharing)
+- 📄 Hire me! [resume-link](https://drive.google.com/file/d/1nCKsnwlnxK01Jcb_T7PHj7UTCaVevo-X/view?usp=sharing)
 
 <details closed>
 <summary> <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> Tech Stack   </summary>
